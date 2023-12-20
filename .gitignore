@@ -1,0 +1,3 @@
+.idea
+pkg/core/storage/json/data
+pkg/core/storage/memory/data

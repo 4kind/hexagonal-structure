@@ -1,0 +1,13 @@
+POST http://localhost:8080/users
+Content-Type: application/json
+
+{
+  "FirstName": "Pliny the Elder",
+  "LastName": "Russian River Brewing Company",
+  "Email": "test1@test.de",
+  "Phone": 1234
+}
+
+###
+
+DELETE http://localhost:8080/users/user_2ee124dcf2436449
